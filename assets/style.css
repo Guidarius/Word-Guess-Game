@@ -1,0 +1,14 @@
+body
+{
+    background-image: url(./90sBackground.jpg);
+}
+
+.container
+{
+    opacity: .8;
+}
+
+p
+{
+    font-size: 30px;
+}
